@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="question">¿Que le gustaría ordenar hoy?</string>
+    <string name="starter">Entrada</string>
+    <string name="main">Plato de Fondo</string>
+    <string name="order">Ordenar</string>
+    <string name="result">Ordeno:</string>
+    <string name="option1">Por favor seleccione al menos uno</string>
+</resources>

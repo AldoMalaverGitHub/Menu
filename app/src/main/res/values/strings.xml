@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="question">¿What would you like to order today?</string>
+    <string name="starter">starter</string>
+    <string name="main">main</string>
+    <string name="order">order</string>
+    <string name="result">Order:</string>
+    <string name="option1">Please select one at least</string>
+</resources>
